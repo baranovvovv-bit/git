@@ -11,7 +11,7 @@ int main(int argc, char *argv[]) {
         printf("%.2f ", arr[i]);
     }
     printf("%.2f ", x);
-    for (int i = k; i < 10; i++) {
+    for (int i = k; i < 9; i++) {
         printf("%.2f ", arr[i]);
     }
 }
